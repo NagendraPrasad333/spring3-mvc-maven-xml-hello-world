@@ -75,7 +75,7 @@
 <div class="row">
 <div class="col-md-12">
 
-<img src="https://www.pexels.com/photo/person-stepping-on-a-puddle-3914693/" width="100%" height="auto">
+<img src="https://images.pexels.com/photos/3914693/pexels-photo-3914693.jpeg" width="100%" height="auto">
 
 </div></div></div>
  
