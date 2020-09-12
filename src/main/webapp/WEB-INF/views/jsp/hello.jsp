@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Maven + Spring MVC</title>
+<title>Maven Demo</title>
  
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -69,6 +69,15 @@
 	<p>&copy; Mkyong.com 2015</p>
   </footer>
 </div>
+
+
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+
+<img src="https://www.pexels.com/photo/person-stepping-on-a-puddle-3914693/" width="100%" height="auto">
+
+</div></div></div>
  
 <spring:url value="/resources/core/css/hello.js" var="coreJs" />
 <spring:url value="/resources/core/css/bootstrap.min.js" var="bootstrapJs" />
